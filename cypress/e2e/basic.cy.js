@@ -4,6 +4,6 @@ describe('Manifesting Web...', () => {
   });
 
   it('Get Web Components...', () => {
-    cy.get('h1').contains('Next.js Blog Theme');
+    cy.get('h1').contains('큐브 사용 예약하기');
   });
 });
